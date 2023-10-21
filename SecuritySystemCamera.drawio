@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T06:48:53.297Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" version="21.7.2" etag="R376IBgbda6af47tvdX7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T08:10:33.976Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="xag8pFeL57n8YZdci1zw" version="22.0.6" type="github">
   <diagram name="Page-1" id="W06Nm9HMvpwDF0eSv0t2">
-    <mxGraphModel>
+    <mxGraphModel dx="1232" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UOoueq9DOuGv6hxWZ0JE-5" target="UOoueq9DOuGv6hxWZ0JE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOoueq9DOuGv6hxWZ0JE-5" target="UOoueq9DOuGv6hxWZ0JE-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOoueq9DOuGv6hxWZ0JE-5" target="UOoueq9DOuGv6hxWZ0JE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-5" value="Desktop App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-11" value="Manage Camera" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-13" value="add Faces to DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UOoueq9DOuGv6hxWZ0JE-14" value="detect Faces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
